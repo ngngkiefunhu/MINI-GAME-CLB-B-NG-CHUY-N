@@ -1,0 +1,7 @@
+{
+  "name": "Chuyền Bóng Gọi Tên - CLB Bóng Chuyền FPT Hậu Giang",
+  "description": "Web game chuyền bóng gọi tên kết nối thành viên và làm quen đội bóng chuyền CLB FPT Hậu Giang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
